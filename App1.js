@@ -1,9 +1,10 @@
 import React from "react";
-import Weather from './weather';
+import Todo_List from "./todo_List";
+
 const App1 =()=>{
 return (
 <>
-<Weather/>
+<Todo_List/>
 </>
 );
 }
